@@ -1,4 +1,9 @@
 # Blue-Star-Prototipo-
+
+Este prototipo foi criado durante o curso de UX/UI da EBAC com a finalidade de por em pratica as habilidades aprendidas durante as aulas.
+Segue o link da entrega final do projeto que conten dados especificos sobre o processo 
+https://medium.com/@hudson.psp/modulo-28-como-apresentar-seu-trabalho-2d0a42cf8ce5
+
 O aplicativo Blue Star busca se integrar com vários tipos diferentes de aparelhos sem fio e otimizar a experiência dos usuários tanto com dispositivos originais quanto genéricos trazendo funções para facilitar o pareamento, ajuda para encontrar aparelhos perdidos e uma função que permite visualização da bateria e controle de funções via Widget.
 <img width="1550" height="922" alt="blue star 2" src="https://github.com/user-attachments/assets/58736d33-dad4-46d7-a61c-c5c9ca917e36" />
 <img width="1168" height="649" alt="bu s trans" src="https://github.com/user-attachments/assets/f780eae2-528d-4294-9a83-e85e589f5f18" />
